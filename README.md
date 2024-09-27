@@ -51,7 +51,7 @@ Antes de começar, verifique se você tem os seguintes itens instalados:
 
    
 ## Dockerização
-# Para rodar a aplicação em um contêiner Docker, execute os seguintes comandos:  
+ Para rodar a aplicação em um contêiner Docker, execute os seguintes comandos:  
 
 1. Construa a imagem Docker:
    ```bash
