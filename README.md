@@ -2,6 +2,10 @@
 
 Uma plataforma de monitoramento que exibe informações de saúde do sistema (CPU e memória) em tempo real, utilizando Flask como framework web.
 
+## Objetivo do Projeto
+
+Criar uma plataforma que monitore a saúde de sistemas, infraestrutura e aplicações em tempo real, permitindo que administradores e desenvolvedores visualizem métricas e recebam alertas sobre o estado de seus serviços. O projeto pode ser usado por startups, pequenas empresas, ou equipes DevOps para monitorar seus ambientes.
+
 ## Funcionalidades
 
 - Monitoramento do uso de CPU e memória.
@@ -13,6 +17,25 @@ Uma plataforma de monitoramento que exibe informações de saúde do sistema (CP
 - **Flask**: Framework web para Python.
 - **psutil**: Biblioteca para obter informações sobre o uso do sistema.
 - **Docker**: Para containerização da aplicação.
+
+### Ferramentas Utilizáveis no Projeto
+
+- **GitHub**: Controle de versão, issues, gerenciamento de projeto.
+- **Terraform**: Provisionamento de infraestrutura na AWS.
+- **AWS (EC2, RDS, S3)**: Servidores de aplicação, armazenamento de dados e logs.
+- **Docker**: Containerização de aplicações e serviços.
+- **Kubernetes**: Orquestração e gerenciamento de contêineres.
+- **Helm**: Gerenciamento de pacotes no Kubernetes.
+- **Prometheus**: Monitoramento de métricas da aplicação.
+- **Grafana**: Visualização de métricas e criação de dashboards.
+- **Jenkins / GitHub Actions**: Automação de CI/CD.
+- **Ansible**: Automação de configuração e gerenciamento de servidores.
+- **SonarQube**: Análise da qualidade do código.
+- **ELK Stack**: Agregação e análise de logs.
+
+## Por que esse projeto é útil?
+
+Este projeto ajuda equipes de desenvolvimento, operações e empresas a monitorar, gerenciar e escalar suas aplicações de maneira eficiente. Ele oferece uma solução completa de monitoramento em tempo real, escalabilidade automática e alertas proativos, o que é essencial para manter a saúde de sistemas e aplicações que atendem a clientes.
 
 ## Pré-requisitos
 
@@ -28,6 +51,7 @@ Antes de começar, verifique se você tem os seguintes itens instalados:
    ```bash
    git clone https://github.com/SeuUsuario/devops-monitoring-platform.git
    cd devops-monitoring-platform
+
 
 2. Crie e ative um ambiente virtual:
    ```bash
