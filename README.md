@@ -8,9 +8,24 @@ Criar uma plataforma que monitore a saúde de sistemas, infraestrutura e aplica�
 
 ## Funcionalidades
 
+## Funcionalidades
+
 - Monitoramento do uso de CPU e memória.
 - Interface web simples e intuitiva.
 - Containerização com Docker para portabilidade.
+- Alertas em tempo real via email ou Slack.
+- Dashboard interativo usando Grafana.
+- Armazenamento e visualização de logs com ELK Stack.
+- Visualização histórica de métricas.
+- Autenticação de usuário para acesso ao dashboard.
+- Suporte a múltiplas aplicações.
+- API RESTful para coleta de dados de monitoramento.
+- Configuração de métricas personalizadas.
+- Relatórios automáticos agendados.
+- Análise de performance para otimização de recursos.
+- Integração com Docker para monitoramento de contêineres.
+- Implementação de health checks para serviços monitorados.
+
 
 ## Tecnologias Utilizadas
 
