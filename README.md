@@ -2,6 +2,8 @@
 
 Uma plataforma de monitoramento que exibe informações de saúde do sistema (CPU e memória) em tempo real, utilizando Flask como framework web.
 
+![em execução](/images/image.png)
+
 ## Objetivo do Projeto
 
 Criar uma plataforma que monitore a saúde de sistemas, infraestrutura e aplicações em tempo real, permitindo que administradores e desenvolvedores visualizem métricas sobre o estado de seus serviços.
